@@ -1,2 +1,2 @@
-const date = new Date()
+const date = new Datse()
 console.log(date.getTime())
